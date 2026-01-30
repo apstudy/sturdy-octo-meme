@@ -195,7 +195,7 @@
 			],
 			"id": "mbgzmt107",
 			"weighted": true,
-			"hideOnCG": false,
+			"hideOnCG": true,
 			"linksTo": "link"
 		},
 		{
