@@ -1,9 +1,9 @@
 [
 	{
-		"content": "New Year, New Gear! ⚙️",
+		"content": "It's the Feral February Update! 🐻",
 		"imageExt": ".jpg",
-		"id": "news_mk4jb3fz0",
-		"elId": "NP1yLq",
+		"id": "news_ml73jg090",
+		"elId": "asNyEj",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "eihrD1",
+		"elId": "GNkKqt",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "QL9Wpq",
+		"elId": "szdmRK",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "ltuKjN",
+		"elId": "mYSjOs",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}
