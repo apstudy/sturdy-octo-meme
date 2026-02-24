@@ -194,7 +194,7 @@
 				"https://kartbros.io/"
 			],
 			"id": "mbgzmt107",
-			"weighted": true,
+			"weighted": false,
 			"hideOnCG": true,
 			"linksTo": "link"
 		},
