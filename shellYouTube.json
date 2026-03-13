@@ -1,6 +1,16 @@
 [
 	{
 		"active": true,
+		"link": "https://www.youtube.com/watch?v=oGFwkVtDOdE",
+		"desc": "",
+		"imageExt": "",
+		"id": "oGFwkVtDOdE",
+		"author": "Viro",
+		"title": "Pro Guide (the only one you need)",
+		"externalImg": "https://i.ytimg.com/vi/oGFwkVtDOdE/hqdefault.jpg"
+	},
+	{
+		"active": true,
 		"link": "https://www.youtube.com/watch?v=OvDtPZei5Rw",
 		"desc": "",
 		"imageExt": "",
