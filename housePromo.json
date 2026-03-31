@@ -279,6 +279,18 @@
 			"weighted": false,
 			"hideOnCG": false,
 			"linksTo": "link"
+		},
+		{
+			"link": [
+				"https://gulfguardian.io/?utm_source=shell_shockers&utm_medium=referral"
+			],
+			"imageExt": ".png",
+			"active": true,
+			"hideOnCG": true,
+			"label": "Gulf Guardian",
+			"id": "mneusacw9",
+			"weighted": false,
+			"linksTo": "link"
 		}
 	],
 	"bigBanner": [
