@@ -1,6 +1,16 @@
 [
 	{
 		"active": true,
+		"link": "https://www.youtube.com/watch?v=uyQxXUP6zjc",
+		"desc": "",
+		"imageExt": "",
+		"id": "uyQxXUP6zjc",
+		"author": "Godric",
+		"title": "Godric vs. Techno (No.1 Player)",
+		"externalImg": "https://i.ytimg.com/vi/uyQxXUP6zjc/hqdefault.jpg"
+	},
+	{
+		"active": true,
 		"link": "https://www.youtube.com/watch?v=EVYCgbVMqPI",
 		"desc": "",
 		"imageExt": "",
