@@ -735,12 +735,13 @@
 			"active": false
 		},
 		{
-			"imageExt": ".jpg",
+			"imageExt": ".svg",
+			"active": true,
 			"label": "Butts",
-			"active": false,
-			"id": "mngi70223",
+			"id": "mngic3jm4",
 			"weighted": false,
-			"hideOnCG": false
+			"hideOnCG": false,
+			"linksTo": "image"
 		}
 	]
 }
