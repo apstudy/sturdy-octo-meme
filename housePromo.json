@@ -737,11 +737,10 @@
 		{
 			"imageExt": ".jpg",
 			"label": "Butts",
-			"active": true,
+			"active": false,
 			"id": "mngi70223",
 			"weighted": false,
-			"hideOnCG": false,
-			"linksTo": "image"
+			"hideOnCG": false
 		}
 	]
 }
