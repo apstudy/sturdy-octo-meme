@@ -733,6 +733,15 @@
 			"weighted": false,
 			"hideOnCG": false,
 			"active": false
+		},
+		{
+			"imageExt": ".jpg",
+			"label": "Butts",
+			"active": true,
+			"id": "mngi70223",
+			"weighted": false,
+			"hideOnCG": false,
+			"linksTo": "image"
 		}
 	]
 }
