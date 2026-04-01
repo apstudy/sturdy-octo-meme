@@ -200,6 +200,18 @@
 		},
 		{
 			"link": [
+				"https://gulfguardian.io/?utm_source=shell_shockers&utm_medium=referral"
+			],
+			"imageExt": ".png",
+			"active": true,
+			"hideOnCG": true,
+			"label": "Gulf Guardian",
+			"id": "mneusacw9",
+			"weighted": false,
+			"linksTo": "link"
+		},
+		{
+			"link": [
 				"https://freegames.io/game/football-bros?utm_source=shell_shockers_houseads&utm_medium=referral"
 			],
 			"label": "Football Bros",
@@ -278,18 +290,6 @@
 			"id": "lhkqsfa911",
 			"weighted": false,
 			"hideOnCG": false,
-			"linksTo": "link"
-		},
-		{
-			"link": [
-				"https://gulfguardian.io/?utm_source=shell_shockers&utm_medium=referral"
-			],
-			"imageExt": ".png",
-			"active": true,
-			"hideOnCG": true,
-			"label": "Gulf Guardian",
-			"id": "mneusacw9",
-			"weighted": false,
 			"linksTo": "link"
 		}
 	],
@@ -700,9 +700,9 @@
 		}
 	],
 	"houseAdPercentChance": 100,
-	"specialItemsTag": "Mar26",
-	"featuredSocialMedia": "Steam",
-	"premFeatured": "premFeatOne",
+	"specialItemsTag": "Apr26",
+	"featuredSocialMedia": "Twitch",
+	"premFeatured": "premFeatTwo",
 	"smHouseAds": [
 		{
 			"ad": "badEgg",
