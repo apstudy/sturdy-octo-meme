@@ -1,9 +1,9 @@
 [
 	{
-		"content": "This update is cracked! It's Just Butts! 🍑",
+		"content": "May the 4th be with you, it's the Eggalorian update!",
 		"imageExt": ".png",
-		"id": "news_mngi8ke80",
-		"elId": "HiqOBS",
+		"id": "news_mornrgkf0",
+		"elId": "m7YUyG",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "R4R3Aw",
+		"elId": "zetmS5",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "U4P6Sz",
+		"elId": "jGEjUN",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "GTl6ZI",
+		"elId": "YwNQuK",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}

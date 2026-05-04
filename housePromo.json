@@ -736,7 +736,7 @@
 		},
 		{
 			"imageExt": ".svg",
-			"active": true,
+			"active": false,
 			"label": "Butts",
 			"id": "mngic3jm4",
 			"weighted": false,
