@@ -700,9 +700,9 @@
 		}
 	],
 	"houseAdPercentChance": 100,
-	"specialItemsTag": "Apr26",
-	"featuredSocialMedia": "Twitch",
-	"premFeatured": "premFeatTwo",
+	"specialItemsTag": "May26",
+	"featuredSocialMedia": "Facebook",
+	"premFeatured": "premFeatOne",
 	"smHouseAds": [
 		{
 			"ad": "badEgg",
@@ -740,8 +740,7 @@
 			"label": "Butts",
 			"id": "mngic3jm4",
 			"weighted": false,
-			"hideOnCG": false,
-			"linksTo": "image"
+			"hideOnCG": false
 		}
 	]
 }
