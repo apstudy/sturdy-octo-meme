@@ -177,7 +177,7 @@
 	],
 	"small": [
 		{
-			"active": true,
+			"active": false,
 			"linksToVipStore": "1",
 			"imageExt": ".png",
 			"label": "VIP",
@@ -188,7 +188,7 @@
 		},
 		{
 			"imageExt": ".jpg",
-			"active": true,
+			"active": false,
 			"label": "Kart Bros",
 			"link": [
 				"https://kartbros.io/"
@@ -203,7 +203,7 @@
 				"https://gulfguardian.io/?utm_source=shell_shockers&utm_medium=referral"
 			],
 			"imageExt": ".png",
-			"active": true,
+			"active": false,
 			"hideOnCG": true,
 			"label": "Gulf Guardian",
 			"id": "mneusacw9",
@@ -259,16 +259,16 @@
 		},
 		{
 			"link": [
-				"https://freegames.io/game/soccer-bros?utm_source=shell_shockers&utm_medium=referral",
+				"https://soccerbros.gg/?utm_source=shell_shockers&utm_medium=referral",
 				"https://www.crazygames.com/game/soccer-bros"
 			],
 			"label": "Soccer Bros",
 			"imageExt": ".jpg",
 			"id": "lphl58wab",
-			"weighted": false,
+			"weighted": true,
 			"hideOnCG": false,
 			"linksTo": "link",
-			"active": false
+			"active": true
 		},
 		{
 			"imageExt": ".png",
