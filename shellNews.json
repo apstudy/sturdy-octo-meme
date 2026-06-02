@@ -1,9 +1,9 @@
 [
 	{
-		"content": "May the 4th be with you, it's the Eggalorian update!",
+		"content": "⚽Play some sports in the Bros update! 🏈",
 		"imageExt": ".png",
-		"id": "news_mornrgkf0",
-		"elId": "m7YUyG",
+		"id": "news_mpx3gmra0",
+		"elId": "PJrcvR",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "zetmS5",
+		"elId": "Ao7pRS",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "jGEjUN",
+		"elId": "cKoyER",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "YwNQuK",
+		"elId": "5VoCGj",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}
