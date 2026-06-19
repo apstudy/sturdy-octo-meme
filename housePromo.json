@@ -177,6 +177,19 @@
 	],
 	"small": [
 		{
+			"link": [
+				"https://soccerbros.gg/?utm_source=shell_shockers&utm_medium=referral",
+				"https://www.crazygames.com/game/soccer-bros"
+			],
+			"label": "Soccer Bros",
+			"imageExt": ".jpg",
+			"id": "lphl58wab",
+			"weighted": true,
+			"hideOnCG": false,
+			"linksTo": "link",
+			"active": true
+		},
+		{
 			"active": false,
 			"linksToVipStore": "1",
 			"imageExt": ".png",
@@ -258,19 +271,6 @@
 			"linksTo": "link"
 		},
 		{
-			"link": [
-				"https://soccerbros.gg/?utm_source=shell_shockers&utm_medium=referral",
-				"https://www.crazygames.com/game/soccer-bros"
-			],
-			"label": "Soccer Bros",
-			"imageExt": ".jpg",
-			"id": "lphl58wab",
-			"weighted": true,
-			"hideOnCG": false,
-			"linksTo": "link",
-			"active": true
-		},
-		{
 			"imageExt": ".png",
 			"label": "Private Games",
 			"id": "ls3tphkc6",
@@ -289,6 +289,18 @@
 			"imageExt": ".png",
 			"id": "lhkqsfa911",
 			"weighted": false,
+			"hideOnCG": false,
+			"linksTo": "link"
+		},
+		{
+			"link": [
+				"https://brosports.org/?utm_source=shell_shockers_houseads&utm_medium=referral"
+			],
+			"label": "Bro Sports Portal",
+			"active": true,
+			"weighted": true,
+			"imageExt": ".jpg",
+			"id": "mqlaig41a",
 			"hideOnCG": false,
 			"linksTo": "link"
 		}
