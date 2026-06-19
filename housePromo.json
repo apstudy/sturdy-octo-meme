@@ -202,6 +202,19 @@
 			"linksTo": "link"
 		},
 		{
+			"link": [
+				"https://brosports.org/?utm_source=shell_shockers_housead_pixel&utm_medium=referral",
+				""
+			],
+			"label": "Bro Sports Portal - 2",
+			"imageExt": ".jpg",
+			"hideOnCG": false,
+			"weighted": true,
+			"active": true,
+			"id": "mqlcxaebb",
+			"linksTo": "link"
+		},
+		{
 			"active": false,
 			"linksToVipStore": "1",
 			"imageExt": ".png",
@@ -306,15 +319,13 @@
 		},
 		{
 			"link": [
-				"https://brosports.org/?utm_source=shell_shockers_housead_pixel&utm_medium=referral",
-				""
+				"https://brosports.org/?utm_source=shell_shockers_housead_portolio&utm_medium=referral"
 			],
-			"label": "Bro Sports Portal - 2",
-			"imageExt": ".jpg",
-			"hideOnCG": false,
+			"label": "Bro Sports Portal - 3",
 			"weighted": true,
-			"active": true,
-			"id": "mqlcxaebb",
+			"hideOnCG": true,
+			"imageExt": ".png",
+			"id": "mqlcy7kwc",
 			"linksTo": "link"
 		}
 	],
