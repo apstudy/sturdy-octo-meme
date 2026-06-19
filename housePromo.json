@@ -323,10 +323,11 @@
 			],
 			"label": "Bro Sports Portal - 3",
 			"weighted": true,
-			"hideOnCG": true,
+			"hideOnCG": false,
 			"imageExt": ".png",
 			"id": "mqlcy7kwc",
-			"linksTo": "link"
+			"linksTo": "link",
+			"active": true
 		}
 	],
 	"bigBanner": [
