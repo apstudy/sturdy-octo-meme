@@ -239,6 +239,18 @@
 			"linksTo": "link"
 		},
 		{
+			"link": [
+				" https://brosports.org/?utm_source=shell_shockers_housead_aiden&utm_medium=referral"
+			],
+			"label": "Bro Sports Portal - 5",
+			"imageExt": ".jpg",
+			"active": true,
+			"weighted": true,
+			"id": "mqlk1roee",
+			"hideOnCG": false,
+			"linksTo": "link"
+		},
+		{
 			"active": false,
 			"linksToVipStore": "1",
 			"imageExt": ".png",
@@ -338,18 +350,6 @@
 			"imageExt": ".png",
 			"id": "lhkqsfa911",
 			"weighted": false,
-			"hideOnCG": false,
-			"linksTo": "link"
-		},
-		{
-			"link": [
-				" https://brosports.org/?utm_source=shell_shockers_housead_aiden&utm_medium=referral"
-			],
-			"label": "Bro Sports Portal - 5",
-			"imageExt": ".jpg",
-			"active": true,
-			"weighted": true,
-			"id": "mqlk1roee",
 			"hideOnCG": false,
 			"linksTo": "link"
 		}
@@ -761,9 +761,9 @@
 		}
 	],
 	"houseAdPercentChance": 100,
-	"specialItemsTag": "Jun26",
-	"featuredSocialMedia": "Twitter",
-	"premFeatured": "premFeatTwo",
+	"specialItemsTag": "Jul26",
+	"featuredSocialMedia": "Instagram",
+	"premFeatured": "premFeatOne",
 	"smHouseAds": [
 		{
 			"ad": "badEgg",
