@@ -1,6 +1,16 @@
 [
 	{
 		"active": true,
+		"link": "https://www.youtube.com/watch?v=latZAPGRhVo",
+		"desc": "",
+		"imageExt": "",
+		"id": "latZAPGRhVo",
+		"author": "Virojet",
+		"title": "Competitive Guide",
+		"externalImg": "https://i.ytimg.com/vi/latZAPGRhVo/hqdefault.jpg"
+	},
+	{
+		"active": true,
 		"link": "https://www.youtube.com/watch?v=yGPtQADjL18",
 		"desc": "",
 		"imageExt": "",

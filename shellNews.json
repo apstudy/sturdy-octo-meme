@@ -1,9 +1,9 @@
 [
 	{
-		"content": "⚽Play some sports in the Bros update! 🏈",
+		"content": "Take a Tropical Vacation with us this update!",
 		"imageExt": ".png",
-		"id": "news_mpx3gmra0",
-		"elId": "PJrcvR",
+		"id": "news_mr3yy40t0",
+		"elId": "Nb9k5w",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "Ao7pRS",
+		"elId": "ULUh8E",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "cKoyER",
+		"elId": "doLfwK",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "5VoCGj",
+		"elId": "cyhvus",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}
