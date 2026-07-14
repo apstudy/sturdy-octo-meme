@@ -194,7 +194,7 @@
 				"https://brosports.org/?utm_source=shell_shockers_housead_realistic&utm_medium=referral"
 			],
 			"label": "Bro Sports Portal - 1",
-			"active": true,
+			"active": false,
 			"weighted": true,
 			"imageExt": ".jpg",
 			"id": "mqlaig41a",
@@ -231,7 +231,7 @@
 				"https://brosports.org/?utm_source=shell_shockers_housead_epic&utm_medium=referral"
 			],
 			"label": "Bro Sports Portal - 4",
-			"active": true,
+			"active": false,
 			"weighted": true,
 			"imageExt": ".png",
 			"id": "mqlcz730d",
@@ -244,7 +244,7 @@
 			],
 			"label": "Bro Sports Portal - 5",
 			"imageExt": ".jpg",
-			"active": true,
+			"active": false,
 			"weighted": true,
 			"id": "mqlk1roee",
 			"hideOnCG": false,
