@@ -191,18 +191,6 @@
 		},
 		{
 			"link": [
-				"https://brosports.org/?utm_source=shell_shockers_housead_realistic&utm_medium=referral"
-			],
-			"label": "Bro Sports Portal - 1",
-			"active": false,
-			"weighted": true,
-			"imageExt": ".jpg",
-			"id": "mqlaig41a",
-			"hideOnCG": false,
-			"linksTo": "link"
-		},
-		{
-			"link": [
 				"https://brosports.org/?utm_source=shell_shockers_housead_pixel&utm_medium=referral",
 				""
 			],
@@ -225,6 +213,18 @@
 			"id": "mqlcy7kwc",
 			"linksTo": "link",
 			"active": true
+		},
+		{
+			"link": [
+				"https://brosports.org/?utm_source=shell_shockers_housead_realistic&utm_medium=referral"
+			],
+			"label": "Bro Sports Portal - 1",
+			"active": false,
+			"weighted": true,
+			"imageExt": ".jpg",
+			"id": "mqlaig41a",
+			"hideOnCG": false,
+			"linksTo": "link"
 		},
 		{
 			"link": [
@@ -761,7 +761,7 @@
 		}
 	],
 	"houseAdPercentChance": 100,
-	"specialItemsTag": "Jul26",
+	"specialItemsTag": "Aug26",
 	"featuredSocialMedia": "Instagram",
 	"premFeatured": "premFeatOne",
 	"smHouseAds": [
