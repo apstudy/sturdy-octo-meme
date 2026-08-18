@@ -352,6 +352,18 @@
 			"weighted": false,
 			"hideOnCG": false,
 			"linksTo": "link"
+		},
+		{
+			"link": [
+				"https://bikebros.io/?utm_source=shell_shockers&utm_medium=referral"
+			],
+			"active": true,
+			"weighted": true,
+			"hideOnCG": true,
+			"label": "Bike Bros",
+			"imageExt": ".png",
+			"id": "msyu7efnf",
+			"linksTo": "link"
 		}
 	],
 	"bigBanner": [
