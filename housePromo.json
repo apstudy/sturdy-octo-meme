@@ -196,7 +196,7 @@
 			],
 			"label": "Bro Sports Portal - 2",
 			"imageExt": ".jpg",
-			"hideOnCG": false,
+			"hideOnCG": true,
 			"weighted": true,
 			"active": true,
 			"id": "mqlcxaebb",
@@ -208,7 +208,7 @@
 			],
 			"label": "Bro Sports Portal - 3",
 			"weighted": true,
-			"hideOnCG": false,
+			"hideOnCG": true,
 			"imageExt": ".png",
 			"id": "mqlcy7kwc",
 			"linksTo": "link",
@@ -223,7 +223,7 @@
 			"weighted": true,
 			"imageExt": ".jpg",
 			"id": "mqlaig41a",
-			"hideOnCG": false,
+			"hideOnCG": true,
 			"linksTo": "link"
 		},
 		{
@@ -235,7 +235,7 @@
 			"weighted": true,
 			"imageExt": ".png",
 			"id": "mqlcz730d",
-			"hideOnCG": false,
+			"hideOnCG": true,
 			"linksTo": "link"
 		},
 		{
@@ -247,7 +247,7 @@
 			"active": false,
 			"weighted": true,
 			"id": "mqlk1roee",
-			"hideOnCG": false,
+			"hideOnCG": true,
 			"linksTo": "link"
 		},
 		{

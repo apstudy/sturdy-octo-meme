@@ -1,9 +1,9 @@
 [
 	{
-		"content": "Take a Tropical Vacation with us this update!",
+		"content": "More than a snack, it's the Big Breakfast Update!",
 		"imageExt": ".png",
-		"id": "news_mr3yy40t0",
-		"elId": "Nb9k5w",
+		"id": "news_msf4uxqi0",
+		"elId": "tbj9yr",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "ULUh8E",
+		"elId": "GXPyRL",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "doLfwK",
+		"elId": "zo8sDw",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "cyhvus",
+		"elId": "n1ll8I",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}
