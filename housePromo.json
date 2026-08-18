@@ -198,7 +198,7 @@
 			"imageExt": ".jpg",
 			"hideOnCG": true,
 			"weighted": true,
-			"active": true,
+			"active": false,
 			"id": "mqlcxaebb",
 			"linksTo": "link"
 		},
