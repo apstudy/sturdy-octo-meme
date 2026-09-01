@@ -178,19 +178,6 @@
 	"small": [
 		{
 			"link": [
-				"https://soccerbros.gg/?utm_source=shell_shockers&utm_medium=referral",
-				"https://www.crazygames.com/game/soccer-bros"
-			],
-			"label": "Soccer Bros",
-			"imageExt": ".jpg",
-			"id": "lphl58wab",
-			"weighted": true,
-			"hideOnCG": false,
-			"linksTo": "link",
-			"active": false
-		},
-		{
-			"link": [
 				"https://brosports.org/?utm_source=shell_shockers_housead_portolio&utm_medium=referral"
 			],
 			"label": "Bro Sports Portal - 3",
@@ -212,6 +199,19 @@
 			"imageExt": ".png",
 			"id": "msyu7efnf",
 			"linksTo": "link"
+		},
+		{
+			"link": [
+				"https://soccerbros.gg/?utm_source=shell_shockers&utm_medium=referral",
+				"https://www.crazygames.com/game/soccer-bros"
+			],
+			"label": "Soccer Bros",
+			"imageExt": ".jpg",
+			"id": "lphl58wab",
+			"weighted": true,
+			"hideOnCG": false,
+			"linksTo": "link",
+			"active": false
 		},
 		{
 			"link": [
@@ -773,9 +773,9 @@
 		}
 	],
 	"houseAdPercentChance": 100,
-	"specialItemsTag": "Aug26",
-	"featuredSocialMedia": "tiktok",
-	"premFeatured": "premFeatTwo",
+	"specialItemsTag": "Sep26",
+	"featuredSocialMedia": "discord",
+	"premFeatured": "premFeatOne",
 	"smHouseAds": [
 		{
 			"ad": "badEgg",
