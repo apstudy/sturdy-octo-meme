@@ -1,9 +1,9 @@
 [
 	{
-		"content": "The Recess Rebellion is underway!",
+		"content": "Pumpkins and spice and all things nice!  🎃",
 		"imageExt": ".jpg",
-		"id": "news_mtj4rh320",
-		"elId": "VpP0XP",
+		"id": "news_murf984h0",
+		"elId": "BRY9YH",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "h2rd04",
+		"elId": "4pgcPu",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "bNo9jt",
+		"elId": "i98jAL",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "I8YWrC",
+		"elId": "T2pmsi",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}

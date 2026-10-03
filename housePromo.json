@@ -805,7 +805,7 @@
 			"id": "m1qxbsyk2",
 			"weighted": false,
 			"hideOnCG": false,
-			"active": false
+			"active": true
 		},
 		{
 			"imageExt": ".svg",
