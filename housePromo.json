@@ -773,9 +773,9 @@
 		}
 	],
 	"houseAdPercentChance": 100,
-	"specialItemsTag": "Oct26",
-	"featuredSocialMedia": "Steam",
-	"premFeatured": "premFeatTwo",
+	"specialItemsTag": "Nov26",
+	"featuredSocialMedia": "Twitch",
+	"premFeatured": "premFeatOne",
 	"smHouseAds": [
 		{
 			"ad": "badEgg",
