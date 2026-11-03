@@ -1,9 +1,9 @@
 [
 	{
-		"content": "Pumpkins and spice and all things nice!  🎃",
-		"imageExt": ".jpg",
-		"id": "news_murf984h0",
-		"elId": "BRY9YH",
+		"content": "This update is looking TASTY!",
+		"imageExt": ".png",
+		"id": "news_mw136y6z0",
+		"elId": "atDosR",
 		"active": true,
 		"linksToChangeLog": "1"
 	},
@@ -12,14 +12,14 @@
 		"imageExt": ".png",
 		"active": true,
 		"id": "news_mcmf9ivm1",
-		"elId": "4pgcPu",
+		"elId": "8WJBbz",
 		"link": "https://kartbros.io/?utm_source=ssnewsfeed&utm_medium=referral"
 	},
 	{
 		"content": "🏈 Footballbros.io - Go Long!",
 		"imageExt": ".png",
 		"id": "news_mcmf9ivm2",
-		"elId": "i98jAL",
+		"elId": "jIJsr3",
 		"link": "https://footballbros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	},
@@ -27,7 +27,7 @@
 		"content": "🤼 Get ready to rumble! Check out WrestleBros.io and beat up your bros! 🏆",
 		"imageExt": ".png",
 		"id": "news_m4ukw0jq5",
-		"elId": "T2pmsi",
+		"elId": "vHDgeu",
 		"link": "https://wrestlebros.io/?utm_source=ssnewsfeed&utm_medium=referral",
 		"active": true
 	}
