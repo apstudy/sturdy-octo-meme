@@ -178,18 +178,6 @@
 	"small": [
 		{
 			"link": [
-				"https://bikebros.io/?utm_source=shell_shockers&utm_medium=referral"
-			],
-			"active": false,
-			"weighted": true,
-			"hideOnCG": true,
-			"label": "Bike Bros",
-			"imageExt": ".png",
-			"id": "msyu7efnf",
-			"linksTo": "link"
-		},
-		{
-			"link": [
 				"https://kartbros.io?utm_source=shell_shockers_houseads&utm_medium=referral"
 			],
 			"label": "Kart Contest",
@@ -198,6 +186,18 @@
 			"imageExt": ".png",
 			"id": "mwji3eerg",
 			"hideOnCG": true,
+			"linksTo": "link"
+		},
+		{
+			"link": [
+				"https://bikebros.io/?utm_source=shell_shockers&utm_medium=referral"
+			],
+			"active": true,
+			"weighted": false,
+			"hideOnCG": true,
+			"label": "Bike Bros",
+			"imageExt": ".png",
+			"id": "msyu7efnf",
 			"linksTo": "link"
 		},
 		{
