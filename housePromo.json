@@ -376,6 +376,18 @@
 			"weighted": false,
 			"hideOnCG": false,
 			"linksTo": "link"
+		},
+		{
+			"link": [
+				"https://bizarrecade.com?utm_source=shell_shockers_houseads&utm_medium=referral"
+			],
+			"label": "Bizarrecade",
+			"active": true,
+			"weighted": true,
+			"imageExt": ".png",
+			"id": "mwpdm0xgh",
+			"hideOnCG": false,
+			"linksTo": "link"
 		}
 	],
 	"bigBanner": [
